@@ -1,11 +1,10 @@
 ---
-title: "dsmlfinalproject"
+title: "Andreas Raben"
+about:
+  template: jolla
+  image: profile.jpg
 ---
 
-This is a Quarto website.
+Hi, I'm Andreas Raben. I study International Business and Politics at Copenhagen Business School and work in Danish politics. I'm passionate about hiking, EU and geopolitics.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+I'm excited to work on the final project and make a cool website.

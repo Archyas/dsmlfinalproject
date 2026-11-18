@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Andreas Raben, 22 years old\nBachelor in International Business and Politics, Copenhagen Business School\nEmail: your.email@example.com\nLinkedIn: linkedin.com/in/yourname"
+  },
+  {
+    "objectID": "index.html#me",
+    "href": "index.html#me",
+    "title": "About Me",
+    "section": "",
+    "text": "Andreas Raben, 22 years old\nBachelor in International Business and Politics, Copenhagen Business School\nEmail: your.email@example.com\nLinkedIn: linkedin.com/in/yourname"
+  },
+  {
+    "objectID": "index.html#background",
+    "href": "index.html#background",
+    "title": "About Me",
+    "section": "Background",
+    "text": "Background\n\n4.5 years of experience in political organisations\nCurrently working in the Danish Parliament (Folketinget)\nStrong interest in Danish, EU and global politics"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "About Me",
+    "section": "Experience",
+    "text": "Experience\n\nOrganised Stine Bosse’s European Parliament campaign\nRan my own election campaign\nRepresented Moderaterne at international conferences\nOrganised dozens of events and Folkemødet participation\nStudy trip to The Hague with European Youth"
+  },
+  {
+    "objectID": "index.html#my-experience-in-data",
+    "href": "index.html#my-experience-in-data",
+    "title": "About Me",
+    "section": "My experience in data",
+    "text": "My experience in data\n\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.4     ✔ readr     2.1.5\n✔ forcats   1.0.0     ✔ stringr   1.6.0\n✔ ggplot2   4.0.1     ✔ tibble    3.2.1\n✔ lubridate 1.9.4     ✔ tidyr     1.3.1\n✔ purrr     1.0.4     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors"
+  },
+  {
+    "objectID": "index.html#languages",
+    "href": "index.html#languages",
+    "title": "About Me",
+    "section": "Languages",
+    "text": "Languages\n\nDanish: native\nEnglish: fluent"
+  },
+  {
+    "objectID": "index.html#next-step",
+    "href": "index.html#next-step",
+    "title": "About Me",
+    "section": "Next step",
+    "text": "Next step\n\nWork full time to kickstart my career\nThen a master’s degree abroad"
+  },
+  {
+    "objectID": "index.html#a-quote",
+    "href": "index.html#a-quote",
+    "title": "About Me",
+    "section": "A quote",
+    "text": "A quote\n\n“In God we trust; all others must bring data.” (W. Edwards Deming)"
+  },
+  {
+    "objectID": "index.html#thank-you",
+    "href": "index.html#thank-you",
+    "title": "About Me",
+    "section": "Thank you",
+    "text": "Thank you\n\nQuestions?"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]
