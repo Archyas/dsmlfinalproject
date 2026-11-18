@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About Me",
+    "title": "Andreas Raben",
     "section": "",
-    "text": "Andreas Raben, 22 years old\nBachelor in International Business and Politics, Copenhagen Business School\nEmail: your.email@example.com\nLinkedIn: linkedin.com/in/yourname"
+    "text": "Hi, I’m Andreas Raben. I study International Business and Politics at Copenhagen Business School and work in Danish politics. I’m passionate about hiking, EU and geopolitics.\nI’m excited to work on the final project and make a cool website."
   },
   {
     "objectID": "index.html#me",
@@ -67,6 +67,6 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site\nPlaceholder"
   }
 ]
