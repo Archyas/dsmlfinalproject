@@ -1,7 +1,10 @@
 ---
 title: "About"
+about:
+  template: jolla
+  image: profile.jpg
 ---
 
-About this site
+Hi, I'm Andreas Raben. I study International Business and Politics at Copenhagen Business School and work in Danish politics. I'm passionate about hiking, EU and geopolitics.
 
-Placeholder
+I'm excited to work on the final project and make a cool website.
